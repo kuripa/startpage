@@ -1,4 +1,4 @@
-# my personal startpage.
+# My personal Startpage.
 
 <img width=600px src="https://raw.githubusercontent.com/kuripa/startpage/master/screenshot.png" />
 
