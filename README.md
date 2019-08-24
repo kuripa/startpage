@@ -1,5 +1,6 @@
 # my personal startpage.
 
+<img width=600px src="https://raw.githubusercontent.com/geohot/twitchchess/master/screenshot.png" />
 
 TODOs
 -----
